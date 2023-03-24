@@ -4,3 +4,4 @@ title = 'vompictures'
 theme = 'stack'
 paginate = 5
 DefaultContentLanguage = "en"
+favicon = 'https://michivonah.ch/assets/socialmedia/img14.jpeg'
