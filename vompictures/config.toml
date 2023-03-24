@@ -1,0 +1,6 @@
+baseURL = 'https://vompictures.ch/'
+languageCode = 'en-us'
+title = 'vompictures'
+theme = 'stack'
+paginate = 5
+DefaultContentLanguage = "en"
