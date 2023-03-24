@@ -61,7 +61,6 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
-          path: /vompictures
 
   # Deployment job
   deploy:
